@@ -38,34 +38,34 @@ A Flutter-based mobile application for quick and convenient grocery, dairy, and 
 
 ### Splash Screen
 <div align="center">
-  <img src="docs/00_splash.jpg" width="30%" alt="Splash Screen" />
+  <img src="docs/00_splash.jpeg" width="30%" alt="Splash Screen" />
 </div>
 
 ### Authentication Flow
 **Login Screen** → **OTP Verification**
 <div align="center">
-  <img src="docs/01_login.jpg" width="30%" alt="Login Screen" />
-  <img src="docs/02_otp.jpg" width="30%" alt="OTP Verification" />
+  <img src="docs/01_login.jpeg" width="30%" alt="Login Screen" />
+  <img src="docs/02_otp.jpeg" width="30%" alt="OTP Verification" />
 </div>
 
 ### Home & Shopping
 **Home Page with Categories** → **Product Selection** → **Snacks Page**
 <div align="center">
-  <img src="docs/03_home.jpg" width="30%" alt="Home Page" />
-  <img src="docs/04_vegetables_dairy.jpg" width="30%" alt="Products" />
-  <img src="docs/05_snacks.jpg" width="30%" alt="Snacks" />
+  <img src="docs/03_home.jpeg" width="30%" alt="Home Page" />
+  <img src="docs/04_vegetables_dairy.jpeg" width="30%" alt="Products" />
+  <img src="docs/05_snacks.jpeg" width="30%" alt="Snacks" />
 </div>
 
 ### Cart & Checkout
 **Shopping Cart** → **Checkout**
 <div align="center">
-  <img src="docs/06_cart.jpg" width="30%" alt="Your Cart" />
+  <img src="docs/06_cart.jpeg" width="30%" alt="Your Cart" />
 </div>
 
 ### Order Tracking
 **Real-time Delivery Tracking**
 <div align="center">
-  <img src="docs/08_order_tracking.jpg" width="30%" alt="Order on the Way" />
+  <img src="docs/08_order_tracking.jpeg" width="30%" alt="Order on the Way" />
 </div>
 
 ---
